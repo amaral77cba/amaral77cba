@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá 👋
+
+
+- 🔭 Eu estou trabalhando na SEPLAG-MT
+- 🌱 Eu estou aprendendo JAVA, NODE, REACT, TYPESCRIPT
+- 📫 Meu contato: @amaral77cba
 
 <!--
 **amaral77cba/amaral77cba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
